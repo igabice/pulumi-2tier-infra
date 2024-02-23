@@ -12,3 +12,20 @@ api https://github.com/igabice/infra-api.git
 ```
 
 the index.ts file includes comments that better explains each resource.
+## To initialize IAC
+
+```
+npm install
+
+```
+
+## To deploy IAC
+```
+pulumi up
+```
+
+
+## To destroy IAC
+```
+pulumi down
+```
