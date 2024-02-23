@@ -1,5 +1,7 @@
 ## Infra set up with Pulumi & Typescript
 
+![Alt Text](https://github.com/igabice/pulumi-2tier-infra/blob/main/index.png)
+
 The project is a project written with pulumi `aws-typescript` to set up infrastructure required for a web and api connection.
 
 The api instance is protected by a security group that allows only connection from the web instances.
