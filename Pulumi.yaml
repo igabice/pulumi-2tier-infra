@@ -1,0 +1,7 @@
+name: infra-test
+runtime: nodejs
+description: infra test
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
