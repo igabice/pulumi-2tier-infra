@@ -22,6 +22,7 @@ npm install
 ## Set AWS credentials
 
 Set the following environment variables
+
 ```
 AWS_REGION=us-east-1
 AWS_SECRET_ACCESS_KEY='secret-access-key'
